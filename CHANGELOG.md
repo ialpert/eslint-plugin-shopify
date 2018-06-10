@@ -3,6 +3,7 @@
 ## Unreleased
 
 ### Added
+* `shopify/strict-component-boundaries` ([#98](https://github.com/Shopify/eslint-plugin-shopify/pull/98))
 * `shopify/prefer-pascal-case-enums` ([#96](https://github.com/Shopify/eslint-plugin-shopify/pull/96))
 
 ## [22.0.0]
